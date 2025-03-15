@@ -1,0 +1,14 @@
+Learning Objectives: Master foundational algebra concepts, solve equations/inequalities, manipulate polynomials/rational expressions, and work with radicals, exponents, quadratics, exponential, and logarithmic functions.
+Prerequisites: Basic arithmetic skills (addition, subtraction, multiplication, division), familiarity with number systems (integers, real numbers).
+Depth & Scope: Overview to intermediate level, covering essential algebra topics up to introductory exponential and logarithmic functions.
+Target Audience: High school students, college students in introductory algebra courses, or anyone needing a refresher on algebra fundamentals.
+Technical Details:
+*   Solving linear equations: `2(x + 3) = 10`
+*   Graphing linear equations: `y = mx + b`
+*   Interval notation: `x > 3` is `(3, ∞)`
+*   Factoring: `x^2 + bx + c`, `ax^2 + bx + c`, `a^2 - b^2`, `a^2 + 2ab + b^2`
+*   Rational exponents: `x^(1/2) = √x`
+*   Quadratic formula: `x = (-b ± √(b^2 - 4ac)) / (2a)`
+*   Vertex form of quadratic: `f(x) = a(x - h)^2 + k`
+Relevant Technologies/Tools: None (pencil, paper, calculator).
+Preferred Format/Length: Detailed explanations with concise examples.
